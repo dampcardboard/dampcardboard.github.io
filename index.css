@@ -1,0 +1,35 @@
+
+/* css for damp cardboard box website for fun */
+
+/* general website look */
+
+* {
+    hyphens: auto;
+	background-color: #f7f6f2;
+}
+
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px
+}
+
+h1, h2, h3 {
+    line-height: 1.2
+}
+
+/* side by side flexbox */
+
+.flex {
+	display: flex;
+}
+
+/* goat pic */
+
+img {
+	height: 300px;
+	width: 300px;
+	/* background #B68C65 */
+}
