@@ -1,3 +1,3 @@
 # Damp Cardbox Box
 
-What if goat cultists... sacrificed themselves? :O
+Do goat cultists sacrifice themselves? :O
